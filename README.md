@@ -1,6 +1,6 @@
 # Systemless Day and Night Bootanimation for Magisk
 <p align="center">
-<div>
+<div style="width:420px; height:420px; overflow:hidden;">
   <img src="etc/gif/day-and-night.gif">
 </div>
 </p>
