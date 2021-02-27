@@ -1,7 +1,7 @@
 # Systemless Day and Night Bootanimation for Magisk
 <p align="center">
 <div>
-  <img src="https://i.imgur.com/r0s1ICo.gif">
+  <img src="etc/gif/day-and-night.gif">
 </div>
 </p>
 
